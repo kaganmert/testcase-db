@@ -1,0 +1,45 @@
+[
+    {
+    "id": 1,
+    "name": "Leanne Graham",
+    "username": "Bret",
+    "email": "Sincere@april.biz",
+    "registerDate": 10250045,
+    "totalHour": 60,
+    "address": {
+    "street": "Kulas Light",
+    "suite": "Apt. 556",
+    "city": "Gwenborough",
+    "zipcode": "92998-3874"
+    },
+    "phone": "1-770-736-8031",
+    "website": "hildegard.org",
+    "company": {
+    "name": "Romaguera-Crona",
+    "catchPhrase": "Multi-layered client-server neural-net",
+    "bs": "harness real-time e-markets"
+    }
+    },
+    {
+        "id": 2,
+        "name": "John Doe",
+        "username": "johndoe",
+        "email": "johndoe@april.biz",
+        "registerDate": 10250045,
+        "totalHour": 80,
+        "address": {
+        "street": "Doe Light",
+        "suite": "Apt. 356",
+        "city": "Reading",
+        "zipcode": "RG1"
+        },
+        "phone": "44-770-736-8031",
+        "website": "johndoe.org",
+        "company": {
+        "name": "Nelo-Doe",
+        "catchPhrase": "Nelo does it",
+        "bs": "anything else"
+        }
+        }
+    ]
+    
